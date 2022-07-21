@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/VarTipDadosOpeinJava.iml" filepath="$PROJECT_DIR$/.idea/VarTipDadosOpeinJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitandoAula01/exercitandoAula01.iml" filepath="$PROJECT_DIR$/exercitandoAula01/exercitandoAula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitandoAula02/exercitandoAula02.iml" filepath="$PROJECT_DIR$/exercitandoAula02/exercitandoAula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercitandoAula03/exercitandoAula03.iml" filepath="$PROJECT_DIR$/exercitandoAula03/exercitandoAula03.iml" />
+    </modules>
+  </component>
+</project>
